@@ -34,4 +34,13 @@ print("Train:", train)
 print("Test:", test)
 
 # Example with shuffle function
+data = np.array([0, 0, 0, 0, 1, 1, 1, 1])
+
+np.random.shuffle(data)
+
+train = data[:6]
+test = data[6:]
+
+print("Train:", train)
+print("Test:", test)
 

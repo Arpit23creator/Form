@@ -1,0 +1,1 @@
+print(df[df['Preferred_Career_2026'] == "Data Scientist"])
