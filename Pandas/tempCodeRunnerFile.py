@@ -1,1 +1,2 @@
-print(df[df['Preferred_Career_2026'] == "Data Scientist"])
+print(df1.head(1))
+# print(df1.head(2))
