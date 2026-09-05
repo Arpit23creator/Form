@@ -43,8 +43,8 @@ arr2 = np.array([
   [75, 85, 95]
 ])
 
-print(np.sum(arr2, axis=0)) # column wise
-print(np.sum(arr2, axis=1))  # row wise
+# print(np.sum(arr2, axis=0)) # column wise
+# print(np.sum(arr2, axis=1))  # row wise
 
 # np.mean(arr)
 # np.max(arr)

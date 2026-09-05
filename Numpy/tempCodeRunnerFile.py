@@ -1,1 +1,2 @@
-print(np.random.randn(10))
+print(arr.size)
+print(arr2.size)
