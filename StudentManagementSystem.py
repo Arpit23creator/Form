@@ -77,8 +77,6 @@ student29 = Student("Nitin", 129, [75, 71, 78, 80], 85)
 student30 = Student("Shivani", 130, [89, 93, 86, 90], 94)
 
 
-# Put all students into one list
-
 students = [
     student1, student2, student3, student4, student5,
     student6, student7, student8, student9, student10,

@@ -1,1 +1,1 @@
-print(Car.total_car)
+print(list.count(1))
